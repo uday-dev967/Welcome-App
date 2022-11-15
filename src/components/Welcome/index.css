@@ -1,0 +1,32 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #1e293b;
+  background-size: cover;
+  height: 100vh;
+  font-family: Bree serif;
+}
+
+.heading {
+  color: #f0bb03;
+  font-size: 40px;
+}
+
+p {
+  font-size: 35px;
+  color: #ffffff;
+}
+
+.button {
+  border-style: none;
+  background-color: #ffffff;
+  color: #1e293b;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  outline: none;
+  font-size: 22px;
+  font-weight: 700;
+}
